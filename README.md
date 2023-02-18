@@ -4,7 +4,7 @@
 
 <div align="center">
 
-
+[![https://telegram.me/th30neand0nly0ne](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://t.me/name_dark)
 
 </div>
 
