@@ -9,6 +9,27 @@
 </div>
 
 This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a telegram implementation with extra features than Psi.
+
+
+
+
+
+
+### Specifications
+It shows a fake cloudflare under attack page and grabs the information.
+Gets The Information About browser and Device of User.
+Get the exact location coordinates.
+Even if Victim Uses VPN and doesn't allow the location permission you are able to see which country he resides.
+Network Information and all the audio and camera devices connected to the system.
+Snaps the picture from camera.
+
+
+
+
+
+
+
+
 ### Try it at [@camerahacking_bot](https://t.me/dark0rat54_bot)
 
 
