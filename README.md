@@ -14,8 +14,7 @@ This tool is based upon [Psi](https://github.com/Th30neAnd0nly/Psi) .This is a t
 
 
 
-[![Run on Repl.it](https://replit.com/badge/github/Th30neAnd0nly/TrackDown)](https://repl.it/github/MR-DARK54
-/camera_hacking)
+[![Run on Repl.it](https://replit.com/badge/github/Th30neAnd0nly/TrackDown)](https://repl.it/github/MR-DARK54/camera_hacking)
 
 
  
