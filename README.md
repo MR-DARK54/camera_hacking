@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![https://telegram.me/th30neand0nly0ne](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://t.me/name_dark)
+[![https://telegram.me/name_dark](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://t.me/name_dark)
 
 </div>
 
@@ -45,5 +45,30 @@ Made with Replit👇👇
 
 
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+### Don't forget to put a star
+
+
+
+
+
+Buy me a coffee
+I like coffee
+
+
+
+
+
+
+
+
 
 
