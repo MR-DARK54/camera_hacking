@@ -36,10 +36,17 @@ Snaps the picture from camera.
 
 
 
+
+
 You can create your own bot, click on 
 
 
-Made with Replit👇👇
+
+
+
+
+
+You can create your own bot 👇👇
 
 [![Run on Repl.it](https://replit.com/badge/github/Th30neAnd0nly/TrackDown)](https://repl.it/github/MR-DARK54/camera_hacking)
 
